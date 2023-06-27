@@ -1,0 +1,2 @@
+# HeurystyczneMetodyOptymalizacji
+Zadania z heurystycznych metod optymalizacji
